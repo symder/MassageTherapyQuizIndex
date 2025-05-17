@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctIndex": 2,
+    "feedback": "Paris is the capital city of France."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctIndex": 1,
+    "feedback": "Mars is known as the Red Planet due to its reddish appearance."
+  }
+]
