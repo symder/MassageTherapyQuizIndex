@@ -1,9 +1,9 @@
 [
   {
-    "question": "What is the capital of France?",
-    "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+    "question": "Two or more diseases or conditions in a patient is refered to as:",
+    "choices": ["Sequela", "Comorbidity", "Prevalence", "Complication"],
     "correctIndex": 1,
-    "feedback": "Paris is the capital city of France."
+    "feedback": ""
   },
   {
     "question": "Which planet is known as the Red Planet?",
