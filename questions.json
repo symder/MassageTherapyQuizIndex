@@ -6,9 +6,9 @@
     "feedback": ""
   },
   {
-    "question": "Which planet is known as the Red Planet?",
-    "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "question": "An epidemic is a global disease outbreak.",
+    "choices": ["True", "False"],
     "correctIndex": 1,
-    "feedback": "Mars is known as the Red Planet due to its reddish appearance."
+    "feedback": "Pandemic is Global, Epidemic is Widespread (eg. Country)"
   }
 ]
