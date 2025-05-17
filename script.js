@@ -13,7 +13,7 @@ function getRandomQuestions(questionBank, num) {
 }
 
 function renderQuiz() {
-  const container = document.getElementById('questions');
+  const container = document.getElementById('quiz-container');
   container.innerHTML = '';
 
   questions.forEach((q, index) => {
@@ -41,10 +41,6 @@ function submitQuiz() {
 
     const isCorrect = userAnswer === q.correctIndex;
     if (isCorrect) score++;
-
-    if (selected) {
-      selected.parentElement.classList.add(isCorrect ? "correct" : "incorrect");
-    }
 
     const resultHTML = `
       <p><strong>Q${index + 1}:</strong> ${q.question}<br>
