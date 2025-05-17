@@ -13,7 +13,7 @@ function getRandomQuestions(questionBank, num) {
 }
 
 function renderQuiz() {
-  const container = document.getElementById('quiz-container');
+  const container = document.getElementById('questions');
   container.innerHTML = '';
 
   questions.forEach((q, index) => {
