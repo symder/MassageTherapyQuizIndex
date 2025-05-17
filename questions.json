@@ -2,7 +2,7 @@
   {
     "question": "What is the capital of France?",
     "choices": ["Berlin", "Madrid", "Paris", "Rome"],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "feedback": "Paris is the capital city of France."
   },
   {
