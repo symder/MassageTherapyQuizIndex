@@ -42,6 +42,10 @@ function submitQuiz() {
     const isCorrect = userAnswer === q.correctIndex;
     if (isCorrect) score++;
 
+    if (selected) {
+      selected.parentElement.classList.add(isCorrect ? "correct" : "incorrect");
+    }
+
     const resultHTML = `
       <p><strong>Q${index + 1}:</strong> ${q.question}<br>
       Your answer: ${q.choices[userAnswer] || "None"}<br>
