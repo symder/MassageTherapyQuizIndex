@@ -3,7 +3,7 @@
     "question": "Two or more diseases or conditions in a patient is refered to as:",
     "choices": ["Sequela", "Comorbidity", "Prevalence", "Complication"],
     "correctIndex": 1,
-    "feedback": ""
+    "feedback": "Comorbidity is correct."
   },
   {
     "question": "An epidemic is a global disease outbreak.",
