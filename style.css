@@ -1,3 +1,12 @@
 #quiz-container { margin: 20px; }
 .question { margin-bottom: 15px; }
 .feedback { color: green; margin-top: 5px; }
+button {
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
