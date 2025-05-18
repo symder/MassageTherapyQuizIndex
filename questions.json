@@ -27,7 +27,7 @@
     "question": "Arthropods are an example of:",
     "choices": ["Virus", "Bacteria", "Fungi", "Animal Parasite"],
     "correctIndex": 3,
-    "feedback": "Example of Arthropods include Lice and Mites"
+    "feedback": "Example of Arthropods include Lice and Mites, which are Animal Parasites"
   },
   {
     "question": "Itchiness is a common symptom of Mites of Lice.",
