@@ -11,4 +11,34 @@
     "correctIndex": 1,
     "feedback": "Pandemic is Global, Epidemic is Widespread (eg. Country)"
   }
-]
+  {
+    "question": "A client is complaining about neck pain that started when they woke up this morning. This is an example of an:",
+    "choices": ["Acute Condition", "Subacute Condition", "Chronic Condition", "Systemic Condition"],
+    "correctIndex": 0,
+    "feedback": "Acute is a condition that suddenly develops."
+  }
+  {
+    "question": "A client is complaining about soreness in their forearm. During assessment you can't see any redness or bruising in the area. This is an example of a Sign of a condition.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "A Sign is an objectively observable indication, whereas a Symptom is subjective and can't be seen"
+  }
+  {
+    "question": "Arthropods are an example of:",
+    "choices": ["Virus", "Bacteria", "Fungi", "Animal Parasite"],
+    "correctIndex": 3,
+    "feedback": "Example of Arthropods include Lice and Mites"
+  }
+  {
+    "question": "Itchiness is a common symptom of Mites of Lice.",
+    "choices": ["True", "False"],
+    "correctIndex": 0,
+    "feedback": "Redness from the itching can be a sign as well."
+  }
+  {
+    "question": "Which of these is an example of a Bacterial infection:",
+    "choices": ["Tinea Cruris", "Eczema Herpeticum", "Epidermodysplasia", "Cellulitis"],
+    "correctIndex": 3,
+    "feedback": "Tinea = Fungal, Eczema Herpeticum is a form of Herpes (Herpe), Epidermodysplasia is a genetic disease causing warts"
+  }
+  {
